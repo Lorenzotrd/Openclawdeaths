@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "Next.js Starter",
+    "fullName": "vercel/next.js",
+    "description": "Perfect for building full-stack web apps. OpenClaw excels at creating pages, API routes, and components from scratch.",
+    "stars": 130000,
+    "language": "TypeScript",
+    "difficulty": "Beginner",
+    "url": "https://github.com/vercel/next.js",
+    "tags": ["web", "react", "full-stack"]
+  },
+  {
+    "rank": 2,
+    "name": "FastAPI",
+    "fullName": "tiangolo/fastapi",
+    "description": "Build REST APIs in minutes. OpenClaw can scaffold endpoints, models, and database schemas with a single prompt.",
+    "stars": 82000,
+    "language": "Python",
+    "difficulty": "Beginner",
+    "url": "https://github.com/tiangolo/fastapi",
+    "tags": ["api", "python", "backend"]
+  },
+  {
+    "rank": 3,
+    "name": "shadcn/ui",
+    "fullName": "shadcn-ui/ui",
+    "description": "Beautiful copy-paste components. Tell OpenClaw what UI you want and it assembles shadcn components into full pages.",
+    "stars": 78000,
+    "language": "TypeScript",
+    "difficulty": "Beginner",
+    "url": "https://github.com/shadcn-ui/ui",
+    "tags": ["ui", "react", "components"]
+  },
+  {
+    "rank": 4,
+    "name": "Langchain",
+    "fullName": "langchain-ai/langchain",
+    "description": "Build AI chains and agents. OpenClaw can write complex RAG pipelines, tool integrations, and multi-step chains.",
+    "stars": 100000,
+    "language": "Python",
+    "difficulty": "Intermediate",
+    "url": "https://github.com/langchain-ai/langchain",
+    "tags": ["ai", "llm", "agents"]
+  },
+  {
+    "rank": 5,
+    "name": "Supabase",
+    "fullName": "supabase/supabase",
+    "description": "Open-source Firebase alternative. OpenClaw sets up auth, database tables, RLS policies, and edge functions seamlessly.",
+    "stars": 76000,
+    "language": "TypeScript",
+    "difficulty": "Beginner",
+    "url": "https://github.com/supabase/supabase",
+    "tags": ["database", "auth", "backend"]
+  },
+  {
+    "rank": 6,
+    "name": "Turborepo",
+    "fullName": "vercel/turborepo",
+    "description": "Monorepo tooling. OpenClaw navigates multi-package repos with ease — editing across apps and packages in one session.",
+    "stars": 27000,
+    "language": "Rust",
+    "difficulty": "Intermediate",
+    "url": "https://github.com/vercel/turborepo",
+    "tags": ["monorepo", "tooling", "devops"]
+  },
+  {
+    "rank": 7,
+    "name": "Prisma",
+    "fullName": "prisma/prisma",
+    "description": "Type-safe database ORM. OpenClaw generates schemas, migrations, and queries that just work with your database.",
+    "stars": 41000,
+    "language": "TypeScript",
+    "difficulty": "Beginner",
+    "url": "https://github.com/prisma/prisma",
+    "tags": ["database", "orm", "typescript"]
+  },
+  {
+    "rank": 8,
+    "name": "Hono",
+    "fullName": "honojs/hono",
+    "description": "Ultrafast web framework for the edge. Small API surface makes it easy for OpenClaw to build and deploy workers.",
+    "stars": 22000,
+    "language": "TypeScript",
+    "difficulty": "Beginner",
+    "url": "https://github.com/honojs/hono",
+    "tags": ["api", "edge", "serverless"]
+  },
+  {
+    "rank": 9,
+    "name": "tRPC",
+    "fullName": "trpc/trpc",
+    "description": "End-to-end typesafe APIs. OpenClaw writes routers and procedures with full type inference across client and server.",
+    "stars": 36000,
+    "language": "TypeScript",
+    "difficulty": "Intermediate",
+    "url": "https://github.com/trpc/trpc",
+    "tags": ["api", "typescript", "full-stack"]
+  },
+  {
+    "rank": 10,
+    "name": "Scrapy",
+    "fullName": "scrapy/scrapy",
+    "description": "Web scraping framework. Let OpenClaw write spiders, pipelines, and data parsers for any website in minutes.",
+    "stars": 53000,
+    "language": "Python",
+    "difficulty": "Intermediate",
+    "url": "https://github.com/scrapy/scrapy",
+    "tags": ["scraping", "python", "data"]
+  }
+]
