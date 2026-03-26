@@ -3,20 +3,45 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "OpenClaw Is Dead — Every OpenClaw Obituary Since 2025",
+  title: "OpenClaw Is Dead — Declared Dead Many Times. Still 335K Stars.",
   description:
-    "Tracking 17 obituaries for OpenClaw. Declared dead, dangerous, and overhyped. Still alive with 335,000+ GitHub stars.",
+    "Every time someone declared OpenClaw dead, it kept growing. Track every obituary, every critic, and watch the stars go up. Updated daily by an AI agent.",
   openGraph: {
-    title: "OpenClaw Is Dead — Every OpenClaw Obituary Since 2025",
+    title: "OpenClaw Is Dead — Declared Dead Many Times. Still 335K Stars.",
     description:
-      "Tracking 17 obituaries for OpenClaw. Declared dead, dangerous, and overhyped. Still alive with 335,000+ GitHub stars.",
+      "Every time someone declared OpenClaw dead, it kept growing. Track every obituary, every critic, and watch the stars go up.",
     type: "website",
+    siteName: "OpenClaw Is Dead",
+    locale: "en_US",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "OpenClaw Is Dead — Declared dead 17 times, still alive with 335K stars",
+      },
+    ],
   },
-  metadataBase: new URL("https://openclawdeaths.com"),
+  twitter: {
+    card: "summary_large_image",
+    title: "OpenClaw Is Dead — Declared Dead Many Times. Still 335K Stars.",
+    description:
+      "Every time someone declared OpenClaw dead, it kept growing. Track every obituary, every critic, and watch the stars go up.",
+    images: ["/og-image.png"],
+  },
+  metadataBase: new URL("https://www.openclawdeaths.xyz"),
   icons: {
     icon: "/openclaw-logo.svg",
     apple: "/favicon.png",
   },
+  keywords: [
+    "OpenClaw",
+    "OpenClaw is dead",
+    "AI agent",
+    "GitHub stars",
+    "open source",
+    "obituary tracker",
+  ],
 };
 
 export default function RootLayout({
