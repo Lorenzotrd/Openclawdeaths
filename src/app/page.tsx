@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import StarsChart from "@/components/StarsChart";
+import Newsletter from "@/components/Newsletter";
 import obituaries from "@/data/obituaries.json";
 
 export default function Home() {
@@ -8,6 +9,10 @@ export default function Home() {
       <Header />
       <div className="max-w-[1100px] mx-auto px-4 md:px-6 pb-16">
         <StarsChart obituaries={obituaries} />
+
+        <div className="mt-14">
+          <Newsletter />
+        </div>
       </div>
     </main>
   );
