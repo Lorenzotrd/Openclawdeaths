@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
+import CriticsListClient from "@/components/CriticsListClient";
 import Link from "next/link";
 import Image from "next/image";
 import obituaries from "@/data/obituaries.json";
@@ -103,7 +104,7 @@ export default function CriticsPage() {
           </p>
         </div>
 
-        <div className="space-y-2.5">
+        <CriticsListClient total={critics.length}>
           {critics.map((critic, i) => {
             const rank = getRankDisplay(i + 1);
             const Wrapper = critic.authorUrl ? "a" : "div";
@@ -164,7 +165,7 @@ export default function CriticsPage() {
               </div>
             );
           })}
-        </div>
+        </CriticsListClient>
       </div>
     </main>
   );

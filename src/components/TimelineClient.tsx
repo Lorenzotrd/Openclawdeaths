@@ -68,6 +68,7 @@ export default function TimelineClient({
 }) {
   const [search, setSearch] = useState("");
   const [sortOrder, setSortOrder] = useState<"newest" | "oldest">("newest");
+  const [visibleCount, setVisibleCount] = useState(50);
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
@@ -140,7 +141,7 @@ export default function TimelineClient({
       <div className="relative">
         <div className="absolute left-[4.75rem] top-0 bottom-0 w-px bg-gradient-to-b from-gray-200 via-gray-200 to-transparent hidden md:block" />
 
-        {filtered.map((obit, i) => {
+        {filtered.slice(0, visibleCount).map((obit, i) => {
           const { year, month, key } = getMonthYear(obit.date);
           const showMarker = key !== lastMonthKey;
           lastMonthKey = key;
@@ -205,6 +206,19 @@ export default function TimelineClient({
           );
         })}
       </div>
+
+      {filtered.length > visibleCount && (
+        <div className="text-center mt-8">
+          <button
+            onClick={() => setVisibleCount((c) => c + 50)}
+            className="px-6 py-2.5 bg-accent text-white text-sm font-semibold rounded-lg
+                       hover:bg-red-700 transition-colors
+                       focus:outline-none focus:ring-2 focus:ring-accent/30 focus:ring-offset-1"
+          >
+            Show more ({filtered.length - visibleCount} remaining)
+          </button>
+        </div>
+      )}
     </div>
   );
 }
