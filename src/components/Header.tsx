@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <header className="pt-10 md:pt-14 pb-8">
       <div className="max-w-[1100px] mx-auto px-4">
-        <h1 className="text-center">
+        <p className="text-center">
           <Link
             href="/"
             className="inline-flex items-center gap-3 md:gap-4 font-serif font-black text-[2.5rem] md:text-[3.25rem] lg:text-[3.75rem] text-gray-900 leading-tight tracking-tight hover:no-underline"
@@ -32,7 +32,7 @@ export default function Header() {
             />
             OpenClaw Is Dead
           </Link>
-        </h1>
+        </p>
         <p className="text-center text-sm text-gray-400 mt-2 mb-8">
           ...but it keeps coming back.
         </p>

@@ -11,6 +11,7 @@ export const metadata: Metadata = {
     description:
       "Every time someone declared OpenClaw dead, it kept growing. Track every obituary, every critic, and watch the stars go up.",
     type: "website",
+    url: "/",
     siteName: "OpenClaw Is Dead",
     locale: "en_US",
     images: [
@@ -29,6 +30,7 @@ export const metadata: Metadata = {
       "Every time someone declared OpenClaw dead, it kept growing. Track every obituary, every critic, and watch the stars go up.",
     images: ["/og-image.png"],
   },
+  alternates: { canonical: "/" },
   metadataBase: new URL("https://www.openclawdeaths.xyz"),
   icons: {
     icon: "/openclaw-logo.svg",

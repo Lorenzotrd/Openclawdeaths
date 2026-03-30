@@ -1,5 +1,19 @@
+import type { Metadata } from "next";
 import Header from "@/components/Header";
 import repos from "@/data/best-repos.json";
+
+export const metadata: Metadata = {
+  title: "Best Repos to Use with OpenClaw — Top GitHub Projects",
+  description:
+    "The top 10 open-source repos where OpenClaw shines. From Next.js to FastAPI, find the best projects to build with OpenClaw.",
+  alternates: { canonical: "/best-repos" },
+  openGraph: {
+    title: "Best Repos to Use with OpenClaw — Top GitHub Projects",
+    description:
+      "The top 10 open-source repos where OpenClaw shines.",
+    url: "/best-repos",
+  },
+};
 
 function formatStars(stars: number): string {
   if (stars >= 1000000) return `${(stars / 1000000).toFixed(1)}M`;
@@ -32,9 +46,9 @@ export default function BestReposPage() {
       <Header />
       <div className="max-w-[900px] mx-auto px-4 md:px-6 pb-16">
         <div className="text-center mb-10">
-          <h2 className="font-serif font-black text-3xl md:text-4xl mb-2 text-gray-900">
+          <h1 className="font-serif font-black text-3xl md:text-4xl mb-2 text-gray-900">
             Best Repos to Use with OpenClaw
-          </h2>
+          </h1>
           <p className="text-gray-400 text-sm max-w-lg mx-auto">
             The top open-source projects where OpenClaw shines. Clone one, point OpenClaw at it, and start building.
           </p>
@@ -50,7 +64,7 @@ export default function BestReposPage() {
                 href={repo.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="card card-hover flex items-start gap-4 p-5 md:p-6 cursor-pointer block"
+                className="card card-hover flex items-start gap-4 p-5 md:p-6 cursor-pointer"
               >
                 <div
                   className={`w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 mt-0.5 ${rank.color}`}

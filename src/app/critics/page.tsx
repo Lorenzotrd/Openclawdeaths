@@ -1,7 +1,21 @@
+import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Link from "next/link";
 import Image from "next/image";
 import obituaries from "@/data/obituaries.json";
+
+export const metadata: Metadata = {
+  title: "Critics Leaderboard — Who Declared OpenClaw Dead the Most",
+  description:
+    "Ranked leaderboard of critics who declared OpenClaw dead the most times. See who leads the death count.",
+  alternates: { canonical: "/critics" },
+  openGraph: {
+    title: "Critics Leaderboard — Who Declared OpenClaw Dead the Most",
+    description:
+      "Ranked leaderboard of critics who declared OpenClaw dead the most times.",
+    url: "/critics",
+  },
+};
 
 interface CriticData {
   author: string;
@@ -77,9 +91,9 @@ export default function CriticsPage() {
       <Header />
       <div className="max-w-[800px] mx-auto px-4 md:px-6 pb-16">
         <div className="text-center mb-10">
-          <h2 className="font-serif font-black text-3xl md:text-4xl mb-2 text-gray-900">
+          <h1 className="font-serif font-black text-3xl md:text-4xl mb-2 text-gray-900">
             Critics Leaderboard
-          </h2>
+          </h1>
           <p className="text-gray-400 text-sm">
             The top critics who have declared OpenClaw dead the most times.
           </p>

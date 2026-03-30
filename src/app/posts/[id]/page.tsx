@@ -52,12 +52,19 @@ export function generateMetadata({ params }: { params: { id: string } }): Metada
   return {
     title: `${obit.title} — OpenClaw Is Dead`,
     description: obit.quote,
+    alternates: { canonical: `/posts/${obit.id}` },
     openGraph: {
       title: obit.title,
       description: obit.quote,
+      url: `/posts/${obit.id}`,
       type: "article",
       publishedTime: obit.date,
       authors: [obit.author],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: obit.title,
+      description: obit.quote,
     },
   };
 }

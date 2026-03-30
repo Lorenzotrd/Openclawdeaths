@@ -1,0 +1,33 @@
+# OpenClaw Is Dead
+
+> Tracking every time OpenClaw has been declared dead, dangerous, or obsolete. Inspired by bitcoindeaths.com.
+
+## Site
+
+- URL: https://www.openclawdeaths.xyz
+- Creator: Lorenzo Trichard
+- Updated: Daily by AI agent
+
+## Key Pages
+
+- Homepage (chart): https://www.openclawdeaths.xyz/
+- Timeline (all obituaries): https://www.openclawdeaths.xyz/posts
+- Critics leaderboard: https://www.openclawdeaths.xyz/critics
+- Best repos for OpenClaw: https://www.openclawdeaths.xyz/best-repos
+- About & methodology: https://www.openclawdeaths.xyz/about
+
+## What This Site Tracks
+
+Every public declaration that OpenClaw is dead, dying, doomed, obsolete, or irrelevant. Sources are exclusively from Twitter/X. Each entry includes the date, author, quote, and OpenClaw's GitHub star count at that time.
+
+## Key Facts
+
+- OpenClaw has 335,000+ GitHub stars
+- The project keeps growing despite being repeatedly declared dead
+- Data is sourced exclusively from Twitter/X
+- Obituaries are scored 1-5 on severity; only score 3+ are published
+
+## Contact
+
+- Site: https://www.openclawdeaths.xyz
+- GitHub: https://github.com/Lorenzotrd/Openclawdeaths

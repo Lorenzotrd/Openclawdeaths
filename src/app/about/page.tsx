@@ -1,6 +1,20 @@
+import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Link from "next/link";
 import obituaries from "@/data/obituaries.json";
+
+export const metadata: Metadata = {
+  title: "About — OpenClaw Is Dead",
+  description:
+    "What is OpenClaw Is Dead? How we track every obituary, methodology, and why we built this site.",
+  alternates: { canonical: "/about" },
+  openGraph: {
+    title: "About — OpenClaw Is Dead",
+    description:
+      "What is OpenClaw Is Dead? How we track every obituary and why we built this site.",
+    url: "/about",
+  },
+};
 
 export default function AboutPage() {
   const count = obituaries.length;
@@ -18,9 +32,9 @@ export default function AboutPage() {
       <Header />
       <div className="max-w-[720px] mx-auto px-4 md:px-6 pb-16">
         <div className="text-center mb-12">
-          <h2 className="font-serif font-black text-3xl md:text-4xl mb-2 text-gray-900">
+          <h1 className="font-serif font-black text-3xl md:text-4xl mb-2 text-gray-900">
             About OpenClaw Is Dead
-          </h2>
+          </h1>
           <p className="text-sm text-gray-300">
             Last updated: March 26, 2026 &middot; Database contains {count}{" "}
             obituaries
@@ -28,9 +42,9 @@ export default function AboutPage() {
         </div>
 
         <section className="mb-12">
-          <h3 className="font-serif font-bold text-xl mb-4 text-gray-900">
+          <h2 className="font-serif font-bold text-xl mb-4 text-gray-900">
             What is OpenClaw Is Dead?
-          </h3>
+          </h2>
           <p className="text-gray-500 mb-4 leading-[1.75]">
             OpenClaw Is Dead is a comprehensive tracker of every time OpenClaw
             &mdash; the open-source AI agent framework &mdash; has been declared
@@ -77,9 +91,9 @@ export default function AboutPage() {
         </div>
 
         <section className="mb-12">
-          <h3 className="font-serif font-bold text-xl mb-4 text-gray-900">
+          <h2 className="font-serif font-bold text-xl mb-4 text-gray-900">
             Why track OpenClaw deaths?
-          </h3>
+          </h2>
           <p className="text-gray-500 mb-4 leading-[1.75]">
             OpenClaw crossed 335,000 GitHub stars faster than almost any project
             in open-source history. Despite this, it has been relentlessly
@@ -95,9 +109,9 @@ export default function AboutPage() {
         </section>
 
         <section>
-          <h3 className="font-serif font-bold text-xl mb-4 text-gray-900">
+          <h2 className="font-serif font-bold text-xl mb-4 text-gray-900">
             Methodology
-          </h3>
+          </h2>
           <p className="text-gray-500 mb-4 leading-[1.75]">
             <strong className="text-gray-700">Inclusion criteria:</strong> An
             article, post, or comment qualifies as an &quot;obituary&quot; if it
@@ -106,9 +120,9 @@ export default function AboutPage() {
           </p>
           <p className="text-gray-500 leading-[1.75]">
             <strong className="text-gray-700">Data collection:</strong>{" "}
-            Obituaries are sourced from Hacker News, Twitter/X, Reddit,
-            LinkedIn, Substack, tech blogs, and mainstream media. Each entry is
+            Obituaries are sourced from Twitter/X. Each entry is
             manually verified and linked to the original source where possible.
+            Updated daily by an AI agent.
           </p>
         </section>
       </div>
