@@ -41,6 +41,16 @@ export default function AboutPage() {
           </p>
         </div>
 
+        <div className="card p-5 md:p-6 mb-12 border-l-[3px] border-accent/40">
+          <p className="text-sm font-medium text-gray-700 leading-relaxed">
+            <strong>TL;DR:</strong> OpenClaw has been declared dead {count} times
+            since January 2026. It now has 335,000+ GitHub stars. This site
+            documents every death declaration, the critic who made it, and how
+            many stars OpenClaw had at the time. Data is sourced exclusively from
+            Twitter/X and updated daily by an AI agent.
+          </p>
+        </div>
+
         <section className="mb-12">
           <h2 className="font-serif font-bold text-xl mb-4 text-gray-900">
             What is OpenClaw Is Dead?

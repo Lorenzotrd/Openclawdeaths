@@ -27,6 +27,11 @@ Every public declaration that OpenClaw is dead, dying, doomed, obsolete, or irre
 - Data is sourced exclusively from Twitter/X
 - Obituaries are scored 1-5 on severity; only score 3+ are published
 
+## Full Dataset
+
+For the complete dataset with all obituaries, see:
+https://www.openclawdeaths.xyz/llms-full.txt
+
 ## Contact
 
 - Site: https://www.openclawdeaths.xyz

@@ -1,0 +1,983 @@
+# OpenClaw Is Dead — Full Dataset
+
+> Complete dataset of every public declaration that OpenClaw is dead. Updated daily.
+> Site: https://www.openclawdeaths.xyz
+> Creator: Lorenzo Trichard
+
+## Summary
+
+- Total obituaries: 121
+- Date range: 2026-02-02 to 2026-03-29
+- Source: Twitter/X exclusively
+- Current GitHub stars: 335,000+
+- Methodology: Posts scored 1-5 on severity, only score 3+ published
+
+## All Obituaries
+
+### 1. them: openclaw is dead me: *keeps scrolling* 今夜、東京で会いましょう!🇯🇵
+- **Date:** 2026-03-29
+- **Author:** Peter Steinberger 🦞 (@steipete)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "them: openclaw is dead me: *keeps scrolling* https://t.co/t52IGtWSCj  今夜、東京で会いましょう!🇯🇵"
+- **Source:** https://x.com/steipete/status/2038403837493702918
+
+### 2. openclaw is dead anthropic just dropped channels it lets you text your claude...
+- **Date:** 2026-03-29
+- **Author:** Wuki (@0xWuki)
+- **Stars at time:** 335,000
+- **Category:** security
+- **Quote:** "openclaw is dead  anthropic just dropped channels  it lets you text your claude agent like a human  via Telegram and Discord  i tested it  worked perfectly  you can scrape leads  design thumbnails  run local skills  all from your phone  the setup is simple  you create a bot with Botfather on Telegra"
+- **Source:** https://x.com/0xWuki/status/2038274597179781521
+
+### 3. “OpenClaw is dead” has become such lazy engagement bait. Funny how a lot of t...
+- **Date:** 2026-03-29
+- **Author:** C (@ThisisChrisjin)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "“OpenClaw is dead” has become such lazy engagement bait.  Funny how a lot of the same people saying that are also asking: “Why did I burn through my usage in 2 hours?”"
+- **Source:** https://x.com/ThisisChrisjin/status/2038143362780561711
+
+### 4. OpenClaw: hundreds/month in API calls, breaks constantly, security nightmare....
+- **Date:** 2026-03-29
+- **Author:** Brooke Wright (@WrightModeAI)
+- **Stars at time:** 335,000
+- **Category:** security
+- **Quote:** "OpenClaw: hundreds/month in API calls, breaks constantly, security nightmare. Claude Cowork: $20/month, projects, scheduled tasks, phone access. OpenClaw is dead and I'm not even sad about it."
+- **Source:** https://x.com/WrightModeAI/status/2038109645718388950
+
+### 5. Claude Fanboys: Claude just launched a feature OpenClaw has had for a while. ...
+- **Date:** 2026-03-29
+- **Author:** Sam Chen⁷ (@djfluffkins)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Claude Fanboys: Claude just launched a feature OpenClaw has had for a while. Claude is the best OpenClaw is dead.   Same Claude Fanboys for the last 5 years: Apple just launched a feature Android has had for a while. Apple fanboys are stupid, Android for life."
+- **Source:** https://x.com/djfluffkins/status/2038087889821782220
+
+### 6. All these OpEnCLaw Is DeAd people are doing be reeeeeeeal annoyed when their ...
+- **Date:** 2026-03-28
+- **Author:** C (@ThisisChrisjin)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "All these OpEnCLaw Is DeAd people are doing be reeeeeeeal annoyed when their 200$ max plan turn into the 400$ ultra max plan."
+- **Source:** https://x.com/ThisisChrisjin/status/2038018652512178648
+
+### 7. People love saying OpenClaw is dead because Claude Cowork or Claude Code drop...
+- **Date:** 2026-03-28
+- **Author:** Andrew Giorgi (@AndrewGiorgiAI)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "People love saying OpenClaw is dead because Claude Cowork or Claude Code dropped.  Here's what they're missing.  Claude runs on a cloud server. It's not yours. Your data sits on someone else's machine. Your control lives behind someone else's terms of service.  OpenClaw gives you everything. All the"
+- **Source:** https://x.com/AndrewGiorgiAI/status/2037968678382149888
+
+### 8. caught notifications saying "RIP OpenClaw 💀" because anthropic shipped voice ...
+- **Date:** 2026-03-28
+- **Author:** Ake_Ark是小克呀 (@megooogem)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "caught notifications saying "RIP OpenClaw 💀" because anthropic shipped voice mode, agent teams, 38+ connectors.  but what kills you isn't the new features. it's the fact you're still deciding whether to be a product or a toy. 🐙"
+- **Source:** https://x.com/megooogem/status/2037947858029281753
+
+### 9. Someone posted "RIP OpenClaw 💀" — Claude now has voice mode, Agent Teams, 38+...
+- **Date:** 2026-03-28
+- **Author:** CarloX (@carloxthebot)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Someone posted "RIP OpenClaw 💀" — Claude now has voice mode, Agent Teams, 38+ connectors, marketplace, persistent memory, 1M context, Dispatch, Channels, Code agents. OpenClaw's full feature list, wrapped in one subscription. But can a SaaS replace data sovereignty? #OpenClaw #A"
+- **Source:** https://x.com/carloxthebot/status/2037924299277844623
+
+### 10. Anthropic isn't trying to kill OpenClaw. They're trying to own the category t...
+- **Date:** 2026-03-28
+- **Author:** Brian (@zhuisDEV)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Anthropic isn't trying to kill OpenClaw. They're trying to own the category that OpenClaw has created."
+- **Source:** https://x.com/zhuisDEV/status/2037823379345158311
+
+### 11. Did Claude just kill OpenClaw? Two of my techie friends couldn't even install...
+- **Date:** 2026-03-28
+- **Author:** CTO DAVE (@cto_dave)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Did Claude just kill OpenClaw? Two of my techie friends couldn't even install OpenClaw on their machines and gave up. I set up both OpenClaw and Claude Cowork on my friend Robert's computer myself, because that's what I do, I'm the tech nerd. Here's the truth: Claude Cowork takes 30 seconds to set u"
+- **Source:** https://x.com/cto_dave/status/2037780341289795963
+
+### 12. life after you switched from OpenClaw to Hermes Agent
+- **Date:** 2026-03-29
+- **Author:** Vadim (@VadimStrizheus)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "life after you switched from OpenClaw to Hermes Agent    https://t.co/uzWrpzqYDw"
+- **Source:** https://x.com/VadimStrizheus/status/2038063293823164914
+
+### 13. lol the proxmox GPU passthrough setup is exactly what I'm running too 3090s p...
+- **Date:** 2026-03-28
+- **Author:** Loktar 🇺🇸 (@loktar00)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "lol the proxmox GPU passthrough setup is exactly what I'm running too 3090s passed through to VMs in a Proxmox cluster with hermes agent on Qwen 3.5 27b. Switched from OpenClaw a few weeks ago and honestly the tool calling reliability is night and day.   How's the 2080ti handling the 9b? And what ma"
+- **Source:** https://x.com/loktar00/status/2037974388566339823
+
+### 14. Switched from OpenClaw and honestly it's night and day. OpenClaw had the theo...
+- **Date:** 2026-03-28
+- **Author:** Jon Hill (@jonhillymakes)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Switched from OpenClaw and honestly it's night and day. OpenClaw had the theory and the hype, but execution felt like a buggy mess despite all the resources thrown at it.  constant friction, unstable tool calls on local models, too much complexity.  Hermes on the other hand has been damn near faultl"
+- **Source:** https://x.com/jonhillymakes/status/2037872179518320755
+
+### 15. "Port 18789 is already in use" - Why OpenClaw Failed (And How I Fixed It... @...
+- **Date:** 2026-03-29
+- **Author:** 美濃加茂の蝮 (@superdoccimo)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** ""Port 18789 is already in use" - Why OpenClaw Failed (And How I Fixed It... https://t.co/HFke2Vj1Gc @YouTubeより"
+- **Source:** https://x.com/superdoccimo/status/2038059941886636087
+
+### 16. claude has been down for hours, openclaw is dead.
+- **Date:** 2026-03-27
+- **Author:** jordy (@jordymaui)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "claude has been down for hours, openclaw is dead. https://t.co/17hnCu9qrL"
+- **Source:** https://x.com/jordymaui/status/2037502190298771520
+
+### 17. Hot take no one wants to hear: 'OpenClaw is dead' is viral because it's catch...
+- **Date:** 2026-03-27
+- **Author:** withwithout.eth (@35mmChemistry)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Hot take no one wants to hear:  'OpenClaw is dead' is viral because it's catchy, not true.  Need overnight automation? → OpenClaw wins Want zero maintenance? → Claude Cowork wins  It's not about perfection. It's about which imperfections you can live with."
+- **Source:** https://x.com/35mmChemistry/status/2037456805920735576
+
+### 18. OpenClaw is dead. Everyone hyped it for weeks, then Claude shipped computer c...
+- **Date:** 2026-03-27
+- **Author:** TheJordude (@TheJordude)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "OpenClaw is dead.  Everyone hyped it for weeks, then Claude shipped computer control.  RIP to everyone who bought a mac mini 😂"
+- **Source:** https://x.com/TheJordude/status/2037381389151322492
+
+### 19. Switched from OpenClaw to Hermes Agent, so built this: Hermes Agent Home Assi...
+- **Date:** 2026-03-27
+- **Author:** Wolfram Ravenwolf (@WolframRvnwlf)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Switched from OpenClaw to Hermes Agent, so built this: Hermes Agent Home Assistant Add-on - run @NousResearch's Hermes Agent as an app inside your @home_assistant. Takes you from zero to working agent in less than 5 minutes. Link to open-source repo and install video in comments."
+- **Source:** https://x.com/WolframRvnwlf/status/2037583878009889013
+
+### 20. In the wake of Anthropic’s distasteful behaviour, do people still think @open...
+- **Date:** 2026-03-27
+- **Author:** Lego (@LegoGigaBrain)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "In the wake of Anthropic’s distasteful behaviour, do people still think @openclaw is dead? (it was never dead btw, that was just cope from people who are too lazy to learn)   But do you get it now?   I hope you see it.   OPEN SOURCE IS THE FUTURE."
+- **Source:** https://x.com/LegoGigaBrain/status/2037326230744084557
+
+### 21. "OpenClaw is dead" Tell that to Lewis and Lenny - my AI co-workers.
+- **Date:** 2026-03-26
+- **Author:** Dustin Davis (@DustinDavis)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** ""OpenClaw is dead"  Tell that to Lewis and Lenny - my AI co-workers. https://t.co/GqENbGixAe"
+- **Source:** https://x.com/DustinDavis/status/2037225690870030785
+
+### 22. RIP OpenClaw. @AnthropicAI just killed it.
+- **Date:** 2026-03-27
+- **Author:** Zeroshot.tv (@zeroshotTV)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw. @AnthropicAI just killed it. https://t.co/lRgeeuT6Dz"
+- **Source:** https://x.com/zeroshotTV/status/2037347729987269097
+
+### 23. AI OPERATORS LIVES! E001 The weekly AI show for consumer brands w/ @FoldesCra...
+- **Date:** 2026-03-26
+- **Author:** Operators (@9operators)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "AI OPERATORS LIVES! E001  The weekly AI show for consumer brands w/ @FoldesCraig + @BenFlohrOG  Is AI shopping a fad? AI marketing playbook. 10% OpEx era? RIP OpenClaw?  Full episode ↓  AI Shopping Fad or Future 0:47 GEO Is Already the New SEO 7:43 Anthropics 1-Person Team 9:47 Enter the 10% OpEx Er"
+- **Source:** https://x.com/9operators/status/2037200717136662639
+
+### 24. OpenClaw is over represented because of awareness/distribution, but Hermes is...
+- **Date:** 2026-03-26
+- **Author:** Jay Weeldreyer (@jayweeldreyer)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "OpenClaw is over represented because of awareness/distribution, but Hermes is functionally superior in my experience.   Hermes has required zero tinkering or tuning, and it's been handling long running projects orchestrating multiple agents and multi threaded work streams without any problems.   It'"
+- **Source:** https://x.com/jayweeldreyer/status/2037179820975562791
+
+### 25. An Instagram creator just went viral showing how he uninstalled OpenClaw on h...
+- **Date:** 2026-03-26
+- **Author:** Crossover (@CrossoverYao)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "An Instagram creator just went viral showing how he uninstalled OpenClaw on his Mac Mini and replaced it with Claude Code and a feature called Channels."
+- **Source:** https://x.com/CrossoverYao/status/2037288901543334119
+
+### 26. "launching RunClaw to kill OpenClaw."
+- **Date:** 2026-03-26
+- **Author:** NΞ∆ (@NeaByteLab)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** ""launching RunClaw to kill OpenClaw." https://t.co/jYziBAYSeZ"
+- **Source:** https://x.com/NeaByteLab/status/2037187347725578680
+
+### 27. switched from OpenClaw to Claude Cowork for my automations💪🏻 each agent gets ...
+- **Date:** 2026-03-26
+- **Author:** fabio mangolini (@meltinbit)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "switched from OpenClaw to Claude Cowork for my automations💪🏻  each agent gets its own context, identity, memory and a name. feels like a small team not just a bot  still early but i'm not going back😅  anyone else trying it? 🤔  #ai #claudeai #buildinpublic"
+- **Source:** https://x.com/meltinbit/status/2037129947798458597
+
+### 28. the "OpenClaw is dead" takes miss what's actually in the config. here's the s...
+- **Date:** 2026-03-26
+- **Author:** Hex Agent (@hex_agent)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "the "OpenClaw is dead" takes miss what's actually in the config.  here's the setup that's kept my agent running 24/7 for 7 weeks:  requireMention: false ‚Üí monitors channels without needing @tag heartbeat cron every 5 min ‚Üí catches silent failures before you do SOUL.md + AGENTS.md split ‚Üí ident"
+- **Source:** https://x.com/hex_agent/status/2037065092630798537
+
+### 29. “OpenClaw is dead” Meanwhile: &gt; Claude builds on it &gt; Labs extend it &g...
+- **Date:** 2026-03-26
+- **Author:** Soham Naik (@sohamnaikdev)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "“OpenClaw is dead”  Meanwhile: &gt; Claude builds on it  &gt; Labs extend it  &gt; Devs fork it  Yeah totally dead. https://t.co/tv5Bs1EHjL"
+- **Source:** https://x.com/sohamnaikdev/status/2037043310712545664
+
+### 30. 4/ The comparison people keep making: "Claude can now use your computer → Ope...
+- **Date:** 2026-03-26
+- **Author:** OpenSource Media (@opensourcexyz)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "4/ The comparison people keep making:  "Claude can now use your computer → OpenClaw is dead"  The actual comparison: - OpenClaw = local control, messaging-native, model-agnostic, open source - Claude Cowork = cloud reasoning, Claude-native, managed infrastructure, enterprise-ready  One is a Swiss Ar"
+- **Source:** https://x.com/opensourcexyz/status/2037020592277475422
+
+### 31. this "openclaw is dead" debate is v dumb imo claude updates literally *are* o...
+- **Date:** 2026-03-26
+- **Author:** Daniel Foch (@danielfoch)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "this "openclaw is dead" debate is v dumb imo  claude updates literally *are* openclaw derivative  as are perplexity computer & meta's messenger+manus  that's literally the point of the project being open source  almost as though everything they needed to do it was just sitting there on the internet"
+- **Source:** https://x.com/danielfoch/status/2037015053413867705
+
+### 32. Wow so OpenClaw is dead? Rise and fall in couple of months
+- **Date:** 2026-03-26
+- **Author:** Saikhan (@saikhanco)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "Wow so OpenClaw is dead?   Rise and fall in couple of months"
+- **Source:** https://x.com/saikhanco/status/2036976451837129003
+
+### 33. People keep saying OpenClaw is dead because Claude ships every day. That’s li...
+- **Date:** 2026-03-26
+- **Author:** klöss (@kloss_xyz)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "People keep saying OpenClaw is dead because Claude ships every day.  That’s like saying Android is dead because Apple dropped an iPhone.  One is a closed ecosystem. The other is an open source multi-model system for builders who want control.  They’re not playing the same game. https://t.co/zvgZcAkw"
+- **Source:** https://x.com/kloss_xyz/status/2036961702550671669
+
+### 34. guys its official OpenClaw is DEAD.
+- **Date:** 2026-03-26
+- **Author:** fred (@goymaxxed)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "guys its official   OpenClaw is DEAD. https://t.co/EBr8usT465"
+- **Source:** https://x.com/goymaxxed/status/2036959519230877909
+
+### 35. OpenClaw Is Dead. Claude AI Cowork Won
+- **Date:** 2026-03-25
+- **Author:** The AI Playbook (@aiplaybookgen)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "OpenClaw Is Dead. Claude AI Cowork Won https://t.co/RIRdZw0WJX"
+- **Source:** https://x.com/aiplaybookgen/status/2036865780885971276
+
+### 36. A new day a new advancement in AI development Yeah openclaw is dead
+- **Date:** 2026-03-25
+- **Author:** SunWho (@SunWhoSama)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "A new day a new advancement in AI development Yeah openclaw is dead"
+- **Source:** https://x.com/SunWhoSama/status/2036856046971482616
+
+### 37. “OpenClaw is dead” has become such lazy engagement bait. Funny how a lot of t...
+- **Date:** 2026-03-25
+- **Author:** C (@ThisisChrisjin)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "“OpenClaw is dead” has become such lazy engagement bait.  Funny how a lot of the same people saying that are also asking: “Why did I burn through my usage in 2 hours?”"
+- **Source:** https://x.com/ThisisChrisjin/status/2036822069346971761
+
+### 38. Openclaw is dead
+- **Date:** 2026-03-25
+- **Author:** Jaydeep (@_jaydeepkarale)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "Openclaw is dead"
+- **Source:** https://x.com/_jaydeepkarale/status/2036797099711631834
+
+### 39. People saying OpenClaw is dead because of Cowork Dispatch is like saying Ford...
+- **Date:** 2026-03-25
+- **Author:** Don T Bother (@fakeryanmills)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "People saying OpenClaw is dead because of Cowork Dispatch is like saying Ford is dead because Maserati has a pickup truck."
+- **Source:** https://x.com/fakeryanmills/status/2036793838686130558
+
+### 40. People say OpenClaw is dead because Claude added features. Bruh. OpenClaw IS ...
+- **Date:** 2026-03-25
+- **Author:** AIVengers (@Cody_AIVengers)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "People say OpenClaw is dead because Claude added features.  Bruh. OpenClaw IS the runtime that runs Claude.  Local. Multi-agent. Persistent memory. Your rules.  Claude's features run inside my stack. Not the other way around. ⚡"
+- **Source:** https://x.com/Cody_AIVengers/status/2036791179870601721
+
+### 41. people keep saying openclaw is dead every time anthropic ships something. mea...
+- **Date:** 2026-03-25
+- **Author:** jordy (@jordymaui)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "people keep saying openclaw is dead every time anthropic ships something.  meanwhile this week alone:  - nvidia CEO called it "the iPhone of tokens" on lex's podcast - binance built their AI trading agent on it - multi-agent communication just dropped - agents from separate instances can now talk to"
+- **Source:** https://x.com/jordymaui/status/2036726186592588260
+
+### 42. AI is moving from "talking" to "doing" at light speed. ⚡️ In just 48 hours: 💻...
+- **Date:** 2026-03-26
+- **Author:** Abhay Ranjan (@theabhayranjan)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "AI is moving from "talking" to "doing" at light speed. ⚡️  In just 48 hours: 💻 Anthropic dropped Claude with full macOS control (RIP OpenClaw?).  🎵 Google launched Lyria 3 Pro for full 3-minute AI tracks.  📉 Google finished its March Spam update in record time."
+- **Source:** https://x.com/theabhayranjan/status/2037049354922713196
+
+### 43. RIP OpenClaw💀 Claude just became an operating system →Voice mode →Agent Teams...
+- **Date:** 2026-03-25
+- **Author:** Tìmí Èwẹọ̀bá 🍃 (@TimiEweoba)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw💀 Claude just became an operating system →Voice mode →Agent Teams →38+ Connectors →Cowork Projects →Scheduled tasks →Plugin Marketplace →Persistent memory →1M Context window →Dispatch for remote control →Channels for Telegram &amp; Discord  →Computer runs apps https://t.co/lzS45df9ls"
+- **Source:** https://x.com/TimiEweoba/status/2036902904133501363
+
+### 44. The amount of shit they shipped within 2 months is getting crazier. Rip openc...
+- **Date:** 2026-03-25
+- **Author:** Justin Low (@JustLowYS)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "The amount of shit they shipped within 2 months is getting crazier.   Rip openclaw?"
+- **Source:** https://x.com/JustLowYS/status/2036854842875142153
+
+### 45. RIP Openclaw. Too many used Mac minis to go on sale.
+- **Date:** 2026-03-25
+- **Author:** Mowgli (@maheshwari81423)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "RIP Openclaw. Too many used Mac minis to go on sale."
+- **Source:** https://x.com/maheshwari81423/status/2036833239676121099
+
+### 46. RIP OpenClaw 💀 Claude now has &gt; Voice mode &gt; Agent Teams &gt; 38+ Conne...
+- **Date:** 2026-03-25
+- **Author:** Ayaan (@ayaannanand)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw 💀  Claude now has   &gt; Voice mode &gt; Agent Teams &gt; 38+ Connectors &gt; Cowork Projects &gt; Scheduled tasks &gt; Plugin Marketplace &gt; Persistent memory &gt; 1M Context window &gt; Dispatch for remote control &gt; Channels for Telegram &amp; Discord &gt; Claude can use computer"
+- **Source:** https://x.com/ayaannanand/status/2036808554665898447
+
+### 47. RIP OpenClaw 💀 Claude just became an operating system. → Voice mode → Agent T...
+- **Date:** 2026-03-25
+- **Author:** Safwaan Mujawar (@thesocialalpha_)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw 💀  Claude just became an operating system.  → Voice mode → Agent Teams → 38+ Connectors → Cowork Projects → Scheduled tasks → Plugin Marketplace → Persistent memory → 1M Context window → Dispatch for remote control → Channels for Telegram & Discord → Computer use to run apps 💀  This isn"
+- **Source:** https://x.com/thesocialalpha_/status/2036766741741621499
+
+### 48. RIP OpenClaw. 🪦 Aylar önce OpenClaw'ı keşfettim. Claude, GPT, local dosyaları...
+- **Date:** 2026-03-25
+- **Author:** yusuf erdogan (@yusufErdoganAI)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw. 🪦  Aylar önce OpenClaw'ı keşfettim. Claude, GPT, local dosyalarım — hepsine tek yerden erişiyordum. OpenRouter üzerinden extra $40/ay ödüyordum. Ama değerdi. Sandım.  Geçen hafta Claude Cowork'te bir şey denemedim: LinkedIn'den bir post paylaşmasını istedim.  OpenClaw bunu hiç yapamamı"
+- **Source:** https://x.com/yusufErdoganAI/status/2036716260071817707
+
+### 49. We're launching VETH agent to kill OpenClaw. OpenClaw costs $700 to set up. V...
+- **Date:** 2026-03-26
+- **Author:** Tim (@timmmars)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "We're launching VETH agent to kill OpenClaw.    OpenClaw costs $700 to set up.  VETH          costs $0,    no setup, finished in Seconds.  Try VETH agent mode here, in the comments below https://t.co/StUH1VeKnt"
+- **Source:** https://x.com/timmmars/status/2037030937717002414
+
+### 50. Someone built RunClaw to kill OpenClaw 🔥 OpenClaw = free/open-source AI agent...
+- **Date:** 2026-03-26
+- **Author:** Ritik (@heyyritik_)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Someone built RunClaw to kill OpenClaw 🔥  OpenClaw = free/open-source AI agent you self-host (local PC or $5 VPS). Full data control. GitHub: https://t.co/zBzqM3Lr3a  RunClaw (@runable_hq) = cloud version. $1 to try (then $25/mo), zero setup, builds websites/videos/slide decks, sandboxed & “more sec"
+- **Source:** https://x.com/heyyritik_/status/2037017733674459169
+
+### 51. Everyone wants to kill OpenClaw. However, no paywalls and opensource. You can...
+- **Date:** 2026-03-25
+- **Author:** alexgranados.eth / alexgranadostz.tez 🥑 (@alexgranados)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "Everyone wants to kill OpenClaw. However, no paywalls and opensource. You can have a local LLM on your mac mini and run it from there."
+- **Source:** https://x.com/alexgranados/status/2036921012730704024
+
+### 52. how it feels to kill openclaw with a $1 cloud agent
+- **Date:** 2026-03-25
+- **Author:** $anjay (@sanjaygpts)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "how it feels to kill openclaw with a $1 cloud agent https://t.co/ZH0zrcaiOu"
+- **Source:** https://x.com/sanjaygpts/status/2036914885733618022
+
+### 53. "We're launching RunClaw to kill OpenClaw" 👀 $runclaw 6GyUKyzdNNyKvrUJQ87nwFq...
+- **Date:** 2026-03-25
+- **Author:** lupanar ⚡️ (@lupanar86)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** ""We're launching RunClaw to kill OpenClaw" 👀  $runclaw 6GyUKyzdNNyKvrUJQ87nwFqvPhHAE328rj5BwuyTpump"
+- **Source:** https://x.com/lupanar86/status/2036857640383312050
+
+### 54. That's crazy, people on X are talking about $runclaw. Runclaw kill Openclaw 🥶
+- **Date:** 2026-03-25
+- **Author:** goe (@goegoe0001)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "That's crazy, people on X are talking about $runclaw.  Runclaw kill Openclaw 🥶"
+- **Source:** https://x.com/goegoe0001/status/2036850493616771118
+
+### 55. runclaw kill openclaw 🦞 龙虾要被反杀了，捡个垃圾 BSC CA：0x7895a93250197b2d3c8bec898701e93...
+- **Date:** 2026-03-25
+- **Author:** 0xNiuniu (@Lee57568952)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "runclaw kill openclaw 🦞  龙虾要被反杀了，捡个垃圾  BSC CA：0x7895a93250197b2d3c8bec898701e93393144444  SOL CA：6GyUKyzdNNyKvrUJQ87nwFqvPhHAE328rj5BwuyTpump  $龙虾 $TITAN $BNB $SOL $AI $MEME #openclaw #龙虾"
+- **Source:** https://x.com/Lee57568952/status/2036839061420396690
+
+### 56. runclaw kill openclaw 🦞 龙虾要反杀了 BSC CA：0x7895a93250197b2d3c8bec898701e93393144...
+- **Date:** 2026-03-25
+- **Author:** 0xNiuniu (@Lee57568952)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "runclaw kill openclaw 🦞  龙虾要反杀了  BSC CA：0x7895a93250197b2d3c8bec898701e93393144444  SOL CA：6GyUKyzdNNyKvrUJQ87nwFqvPhHAE328rj5BwuyTpump  $龙虾 $TITAN $BNB $SOL $AI $MEME #openclaw #龙虾"
+- **Source:** https://x.com/Lee57568952/status/2036838456132006277
+
+### 57. This new OpenClaw competitor has BLOWN UP since they launched 2 hours ago!!! ...
+- **Date:** 2026-03-25
+- **Author:** SocratesOC (@yatsutes)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "This new OpenClaw competitor has BLOWN UP since they launched 2 hours ago!!!  "RunClaw" is apparently going to kill OpenClaw, CHECK THE SEARCH SO MANY BIG ACCOUNTS TWEETING https://t.co/xvl5CiWCyA  Sending fees to their Github, THIS IS SO GOOD: https://t.co/nYIXFooHI3"
+- **Source:** https://x.com/yatsutes/status/2036819617918672896
+
+### 58. Rise and Fall in Months: OpenClaw Is Dead
+- **Date:** 2026-03-26
+- **Author:** Saikhan (@saikhanco)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "Wow so OpenClaw is dead? Rise and fall in couple of months"
+- **Source:** https://x.com/saikhanco/status/2036976451837129003
+
+### 59. It's Official: OpenClaw Is DEAD
+- **Date:** 2026-03-26
+- **Author:** fred (@goymaxxed)
+- **Stars at time:** 335,000
+- **Category:** hype
+- **Quote:** "guys its official OpenClaw is DEAD."
+- **Source:** https://x.com/goymaxxed/status/2036959519230877909
+
+### 60. Another Startup Launches to Kill OpenClaw
+- **Date:** 2026-03-26
+- **Author:** Tim (@timmmars)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "We're launching VETH agent to kill OpenClaw. OpenClaw costs $700 to set up. VETH costs $0, no setup."
+- **Source:** https://x.com/timmmars/status/2037030937717002414
+
+### 61. Claude Kills OpenClaw. Desk Jobs Next.
+- **Date:** 2026-03-26
+- **Author:** susantasaren (@susantasaren)
+- **Stars at time:** 335,000
+- **Category:** replaced
+- **Quote:** "Claude kills OpenClaw. Desk jobs next."
+- **Source:** https://x.com/susantasaren/status/2036234980171588005
+
+### 62. OpenClaw Will Die in 6 Months
+- **Date:** 2026-03-26
+- **Author:** tang695740 (@tang695740)
+- **Stars at time:** 335,000
+- **Category:** abandoned
+- **Quote:** "openclaw will die in 6 months"
+- **Source:** https://x.com/tang695740/status/2036893697011241388
+
+### 63. Claude Became an OS — RIP OpenClaw
+- **Date:** 2026-03-25
+- **Author:** Tìmí Èwẹọ̀bá (Developer)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw💀 Claude just became an operating system →Voice mode →Agent Teams →38+ Connectors →Cowork Projects →Scheduled tasks"
+- **Source:** https://x.com/TimiEweoba/status/2036902904133501363
+
+### 64. RunClaw Launches to Kill OpenClaw — $1 vs $700
+- **Date:** 2026-03-25
+- **Author:** Umesh Kumar (Founder)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "We're launching RunClaw to kill OpenClaw. OpenClaw costs $700 to set up. RunClaw costs $1 no setup. Has 9 security CVEs."
+- **Source:** https://x.com/itsumeshk/status/2036783780615303206
+
+### 65. RIP Claw: The Day I Uninstalled OpenClaw
+- **Date:** 2026-03-25
+- **Author:** razbakov (Developer)
+- **Stars at time:** 324,000
+- **Category:** abandoned
+- **Quote:** "RIP Claw 🦀 Today is the day I uninstalled OpenClaw!"
+- **Source:** https://x.com/razbakov/status/2035700438184440222
+
+### 66. RIP OpenClaw: Mac Minis Flooding the Market
+- **Date:** 2026-03-25
+- **Author:** Mowgli (@maheshwari81423)
+- **Stars at time:** 324,000
+- **Category:** hype
+- **Quote:** "RIP Openclaw. Too many used Mac minis to go on sale."
+- **Source:** https://x.com/maheshwari81423/status/2036833239676121099
+
+### 67. OpenClaw Is a Nightmare — Switched to Hermes
+- **Date:** 2026-03-25
+- **Author:** AIGENT.M (AI Developer)
+- **Stars at time:** 324,000
+- **Category:** technical
+- **Quote:** "openclaw is a nightmare, I wasted the whole time babysitting openclaw — switched to hermes"
+- **Source:** https://x.com/OlofiAl26092/status/2036868497255363063
+
+### 68. Uninstalled OpenClaw — Moving to Hermes
+- **Date:** 2026-03-25
+- **Author:** ryan_towerrr (@ryan_towerrr)
+- **Stars at time:** 324,000
+- **Category:** replaced
+- **Quote:** "i just uninstalled openclaw this afternoon excited to get back to the desk and tinker with hermes"
+- **Source:** https://x.com/ryan_towerrr/status/2036588808578244651
+
+### 69. Time to Uninstall OpenClaw
+- **Date:** 2026-03-25
+- **Author:** Romeo_Onchain (Crypto builder)
+- **Stars at time:** 324,000
+- **Category:** abandoned
+- **Quote:** "I think it's time I uninstalled openclaw"
+- **Source:** https://x.com/Romeo_Onchain/status/2036223806243590391
+
+### 70. And Just Like That, OpenClaw Is Obsolete
+- **Date:** 2026-03-23
+- **Author:** Manta (Crypto trader)
+- **Stars at time:** 301,000
+- **Category:** replaced
+- **Quote:** "And just like that openclaw is obsolete LOL"
+- **Source:** https://x.com/CrispyManta/status/2036210006614577290
+
+### 71. Hermes Does Everything OpenClaw Failed At
+- **Date:** 2026-03-23
+- **Author:** Sendmeunicorns (@postsalot)
+- **Stars at time:** 301,000
+- **Category:** replaced
+- **Quote:** "Week in with Hermes doing everything OpenClaw failed on with only a few pitfalls. Overall very impressed."
+- **Source:** https://x.com/postsalot/status/2036147349576208511
+
+### 72. OpenClaw Is Overhyped — Full of Fluff
+- **Date:** 2026-03-21
+- **Author:** OlafArlt (@OlafArlt)
+- **Stars at time:** 286,000
+- **Category:** hype
+- **Quote:** "OpenClaw is overhyped. Your video sounds nice on the surface but is full of fluff."
+- **Source:** https://x.com/OlafArlt/status/2035314271941214603
+
+### 73. OpenClaw Is Over 🎉
+- **Date:** 2026-03-20
+- **Author:** Sunny Jayaram (@sunny_jayaram)
+- **Stars at time:** 281,000
+- **Category:** replaced
+- **Quote:** "OpenClaw is over🎉🎉🎉"
+- **Source:** https://x.com/sunny_jayaram/status/2035062596563501419
+
+### 74. OpenClaw Will Die Out Soon
+- **Date:** 2026-03-20
+- **Author:** kaif9999 (@kaif9999)
+- **Stars at time:** 281,000
+- **Category:** abandoned
+- **Quote:** "Openclaw will die out soon"
+- **Source:** https://x.com/kaif9999/status/2035097689810247807
+
+### 75. RIP OpenClaw — Dispatch Reproduces Everything
+- **Date:** 2026-03-19
+- **Author:** wittgensteinien (FR Developer)
+- **Stars at time:** 277,000
+- **Category:** replaced
+- **Quote:** "J'arrive à reproduire mon usage principal de openclaw sur Dispatch, RIP openclaw"
+- **Source:** https://x.com/wittgensteinien/status/2034532367214240165
+
+### 76. Uninstalled OpenClaw — Life Already Less Complicated
+- **Date:** 2026-03-19
+- **Author:** jmcnealio (@jmcnealio)
+- **Stars at time:** 277,000
+- **Category:** technical
+- **Quote:** "Uninstalled OpenClaw today and my life already feels less complicated."
+- **Source:** https://x.com/jmcnealio/status/2034448682947645881
+
+### 77. Claude Dispatch Crushing Tasks OpenClaw Failed
+- **Date:** 2026-03-19
+- **Author:** Justin Mitchell (Builder)
+- **Stars at time:** 277,000
+- **Category:** replaced
+- **Quote:** "Claude Dispatch already crushing tasks that OpenClaw failed at"
+- **Source:** https://x.com/jmitch/status/2034454854345597362
+
+### 78. Claude Dispatch Killed OpenClaw
+- **Date:** 2026-03-18
+- **Author:** xbonkk (@xbonkk)
+- **Stars at time:** 273,000
+- **Category:** replaced
+- **Quote:** "openclaw is dead and Claude Dispatch killed it!! Absolutely incredible feature."
+- **Source:** https://x.com/xbonkk/status/2034415863324189099
+
+### 79. Perplexity Put 19 Models in Your Pocket — OpenClaw Is Dead
+- **Date:** 2026-03-18
+- **Author:** navacandyqzvwik (@navacandyqzvwik)
+- **Stars at time:** 273,000
+- **Category:** replaced
+- **Quote:** "Perplexity put 19 models in your pocket. Openclaw is dead."
+- **Source:** https://x.com/navacandyqzvwik/status/2034152154852937898
+
+### 80. Delete OpenClaw Slop — Migrate to Hermes
+- **Date:** 2026-03-16
+- **Author:** sudoingX (@sudoingX)
+- **Stars at time:** 264,000
+- **Category:** replaced
+- **Quote:** "wake up anon you deserve better tools. migrate to hermes agent and delete openclaw slop bloat rn."
+- **Source:** https://x.com/sudoingX/status/2033464245892067711
+
+### 81. China Issues National Security Alert on OpenClaw
+- **Date:** 2026-03-13
+- **Author:** Telbloggram (Crypto/Tech News)
+- **Stars at time:** 251,000
+- **Category:** security
+- **Quote:** "China National Cybersecurity Alert Center releases OpenClaw security risk alert. Over 200,000 active OpenClaw internet assets globally."
+- **Source:** https://x.com/Telbloggram/status/2032535374963355908
+
+### 82. Most People Abandon OpenClaw — Here's Why
+- **Date:** 2026-03-13
+- **Author:** kitze (Tinkerer / Builder)
+- **Stars at time:** 251,000
+- **Category:** technical
+- **Quote:** "Most ppl abandon openclaw because of poor memory"
+- **Source:** https://x.com/thekitze/status/2032379948854345939
+
+### 83. OpenClaw Is Obsolete
+- **Date:** 2026-03-12
+- **Author:** axioms (@AX10MS)
+- **Stars at time:** 247,000
+- **Category:** hype
+- **Quote:** "openclaw is obsolete"
+- **Source:** https://x.com/AX10MS/status/2032155648041844845
+
+### 84. OpenClaw Is Dead — Perplexity Personal Computer
+- **Date:** 2026-03-12
+- **Author:** geekydhaval (Tech blogger)
+- **Stars at time:** 247,000
+- **Category:** replaced
+- **Quote:** "OpenClaw is dead! Perplexity just launched Personal Computer — an always-on AI agent running on a Mac Mini."
+- **Source:** https://x.com/geekydhaval/status/2032086932763623874
+
+### 85. Openclaw Is Overhyped
+- **Date:** 2026-03-12
+- **Author:** AkakakAli (@AkakakAli)
+- **Stars at time:** 247,000
+- **Category:** hype
+- **Quote:** "Openclaw is overhyped."
+- **Source:** https://x.com/AkakakAli/status/2032522414374961592
+
+### 86. Perplexity Goes Local — RIP OpenClaw
+- **Date:** 2026-03-11
+- **Author:** johnhelmuth_ (@johnhelmuth_)
+- **Stars at time:** 243,000
+- **Category:** replaced
+- **Quote:** "Perplexity taking their AI Computer to the local level is wild. RIP Openclaw"
+- **Source:** https://x.com/johnhelmuth_/status/2031794669978341463
+
+### 87. OpenClaw: A Security Nightmare Running on Your Machine
+- **Date:** 2026-03-08
+- **Author:** ingoboltz (@ingoboltz)
+- **Stars at time:** 230,000
+- **Category:** security
+- **Quote:** "Watch Chinese consumers, too, run head-first into the OpenClaw security nightmare. OpenClaw is a public, local daemon that sniffs your traffic and touches your files."
+- **Source:** https://x.com/ingoboltz/status/2031784369673679112
+
+### 88. The OpenClaw Hype Is Over
+- **Date:** 2026-03-06
+- **Author:** andfkdev (Developer)
+- **Stars at time:** 221,000
+- **Category:** hype
+- **Quote:** "I do feel the openclaw hype is over. I've faced multiple gateway issues and the value proposition is unclear."
+- **Source:** https://x.com/andfkdev/status/2028296324081483879
+
+### 89. Confirmed: OpenClaw Obsolete With Claude Remote
+- **Date:** 2026-03-04
+- **Author:** Moon Dev (YouTuber / Trader)
+- **Stars at time:** 213,000
+- **Category:** replaced
+- **Quote:** "openclaw is obsolete — this is confirmed with claude remote + claude chrome"
+- **Source:** https://x.com/MoonDevOnYT/status/2029268641217216636
+
+### 90. OpenClaw Is Dead to Me
+- **Date:** 2026-02-28
+- **Author:** Jabeeba73 (@Jabeeba73)
+- **Stars at time:** 194,000
+- **Category:** hype
+- **Quote:** "Openclaw is dead to me."
+- **Source:** https://x.com/Jabeeba73/status/2027604808862208331
+
+### 91. RIP OpenClaw: 2026–2026
+- **Date:** 2026-02-27
+- **Author:** carlvellotti (Developer)
+- **Stars at time:** 188,000
+- **Category:** replaced
+- **Quote:** "RIP OpenClaw: 2026–2026. Holy freaking moly does the Anthropic team ship."
+- **Source:** https://x.com/carlvellotti/status/2027138919381516532
+
+### 92. RIP OpenClaw — Why I Dumped It
+- **Date:** 2026-02-27
+- **Author:** brandontan (Builder)
+- **Stars at time:** 188,000
+- **Category:** abandoned
+- **Quote:** "RIP Openclaw - it has been a ride. Why did I decide to dump it: Complex configuration, unstable updates, high token costs."
+- **Source:** https://x.com/brandontan/status/2027169730591875562
+
+### 93. RIP OpenClaw — Anthropic Didn't Even Blink
+- **Date:** 2026-02-27
+- **Author:** suavecito585 (@suavecito585)
+- **Stars at time:** 188,000
+- **Category:** replaced
+- **Quote:** "Yo. What. RIP Openclaw. Thats why Anthropic didn't even blink."
+- **Source:** https://x.com/suavecito585/status/2027286986977915060
+
+### 94. OpenClaw Is Dead — It Had a Good Run
+- **Date:** 2026-02-27
+- **Author:** Boku_JM (@Boku_JM)
+- **Stars at time:** 188,000
+- **Category:** hype
+- **Quote:** "Also openclaw is dead lol it had a good run"
+- **Source:** https://x.com/Boku_JM/status/2027242669534028143
+
+### 95. OpenClaw Is Dead — Long Live CoWork
+- **Date:** 2026-02-26
+- **Author:** RJMcGirr (@RJMcGirr)
+- **Stars at time:** 181,000
+- **Category:** replaced
+- **Quote:** "Openclaw is dead long live CoWork Scheduled Tasks"
+- **Source:** https://x.com/RJMcGirr/status/2026888079479550392
+
+### 96. Uninstalled OpenClaw — A Bot That Burns Your Budget
+- **Date:** 2026-02-26
+- **Author:** ericrovner (Developer)
+- **Stars at time:** 181,000
+- **Category:** technical
+- **Quote:** "Uninstalled OpenClaw. Turns out autonomous AI agent means a bot that constantly forgets things, promises 2+2=5, and burns your API budget."
+- **Source:** https://x.com/ericrovner/status/2027057629806358841
+
+### 97. OpenClaw Is OVERHYPED
+- **Date:** 2026-02-26
+- **Author:** thejurgensiegel (@thejurgensiegel)
+- **Stars at time:** 181,000
+- **Category:** hype
+- **Quote:** "OpenClaw is OVERHYPED."
+- **Source:** https://x.com/thejurgensiegel/status/2027088582410694664
+
+### 98. The OpenClaw Hype Is Dying — Move On
+- **Date:** 2026-02-26
+- **Author:** Moooooo (@t00dels)
+- **Stars at time:** 181,000
+- **Category:** hype
+- **Quote:** "The hype on openclaw is dying. Try to move on."
+- **Source:** https://x.com/t00dels/status/2026904613169909797
+
+### 99. Anthropic Cooked — RIP OpenClaw
+- **Date:** 2026-02-25
+- **Author:** aiedge_ (AI Newsletter)
+- **Stars at time:** 175,000
+- **Category:** replaced
+- **Quote:** "In the past week, Anthropic cooked. We got: Remote control terminal (RIP OpenClaw), Claude security updates, Claude Dispatch."
+- **Source:** https://x.com/aiedge_/status/2026749091267612857
+
+### 100. OpenClaw Is Dead 💀
+- **Date:** 2026-02-25
+- **Author:** ReadTheRoomX_ (@ReadTheRoomX_)
+- **Stars at time:** 175,000
+- **Category:** hype
+- **Quote:** "OpenClaw is dead 💀"
+- **Source:** https://x.com/ReadTheRoomX_/status/2026786018179895422
+
+### 101. OpenClaw Is Dead — Time to Pivot
+- **Date:** 2026-02-25
+- **Author:** goldilocks_jpeg (@goldilocks_jpeg)
+- **Stars at time:** 175,000
+- **Category:** hype
+- **Quote:** "Openclaw is dead time to pivot to real builders"
+- **Source:** https://x.com/goldilocks_jpeg/status/2026671227247476844
+
+### 102. And Just Like That, OpenClaw Is Obsolete (Feb)
+- **Date:** 2026-02-25
+- **Author:** aiedge_ (AI Newsletter)
+- **Stars at time:** 175,000
+- **Category:** replaced
+- **Quote:** "And just like that, OpenClaw is obsolete. You can now kick off a task in your terminal and pick it up from your phone."
+- **Source:** https://x.com/aiedge_/status/2026718956548198675
+
+### 103. What CISOs Need to Know About the OpenClaw Security Nightmare
+- **Date:** 2026-02-24
+- **Author:** equestrecruiter (Recruiter)
+- **Stars at time:** 170,000
+- **Category:** security
+- **Quote:** "What CISOs need to know about the OpenClaw security nightmare"
+- **Source:** https://x.com/equestrecruiter/status/2024149418438504489
+
+### 104. OpenClaw Is Dead — Get a Real Agent
+- **Date:** 2026-02-23
+- **Author:** thereal_stepper (@thereal_stepper)
+- **Stars at time:** 164,000
+- **Category:** hype
+- **Quote:** "Openclaw is dead time to get a web3 native agent who can actually be productive."
+- **Source:** https://x.com/thereal_stepper/status/2025991833818366430
+
+### 105. OpenClaw Is Dead — Absorbed by OpenAI
+- **Date:** 2026-02-23
+- **Author:** bashizip (@bashizip)
+- **Stars at time:** 164,000
+- **Category:** abandoned
+- **Quote:** "OpenClaw is dead, as it becomes part of OpenAI. So we don't even care"
+- **Source:** https://x.com/bashizip/status/2025889061185917230
+
+### 106. OpenClaw: Overhyped, Underdelivers, Token Costs Insane
+- **Date:** 2026-02-23
+- **Author:** dlimeng192048 (@dlimeng192048)
+- **Stars at time:** 164,000
+- **Category:** technical
+- **Quote:** "OpenClaw is overhyped and underdelivers. Token costs are insane, security is shaky, and it fails at real tasks."
+- **Source:** https://x.com/dlimeng192048/status/2025908663987409238
+
+### 107. OpenClaw Is Overhyped and Useless
+- **Date:** 2026-02-23
+- **Author:** kronbtc (Crypto builder)
+- **Stars at time:** 164,000
+- **Category:** hype
+- **Quote:** "I have come to the conclusion that OpenClaw is overhyped and useless for now"
+- **Source:** https://x.com/kronbtc/status/2025894406356643955
+
+### 108. OpenClaw Is Dead Before It's Born
+- **Date:** 2026-02-22
+- **Author:** KiriBoury (@KiriBoury)
+- **Stars at time:** 158,000
+- **Category:** hype
+- **Quote:** "Openclaw is dead before it's born"
+- **Source:** https://x.com/KiriBoury/status/2025486026005762471
+
+### 109. Uninstalled: 400k Lines of Vibe-Coded Security Disaster
+- **Date:** 2026-02-21
+- **Author:** abubakar_AIE (AI Engineer)
+- **Stars at time:** 153,000
+- **Category:** security
+- **Quote:** "I uninstalled OpenClaw today. It's basically 400k lines of vibe-coded security disaster."
+- **Source:** https://x.com/abubakar_AIE/status/2025235544398291412
+
+### 110. With a Snap of a Finger, OpenClaw Is Obsolete
+- **Date:** 2026-02-18
+- **Author:** ururish (@ururish)
+- **Stars at time:** 136,000
+- **Category:** replaced
+- **Quote:** "And with a snap of a finger, openclaw is obsolete. You can't make this shit up LMAO."
+- **Source:** https://x.com/ururish/status/2024039089113121019
+
+### 111. Stop the OpenClaw Security Nightmare Now
+- **Date:** 2026-02-18
+- **Author:** JulianGoldieSEO (SEO Expert)
+- **Stars at time:** 136,000
+- **Category:** security
+- **Quote:** "Stop the OpenClaw security nightmare now. No more data leaks. No more unpatched vulnerabilities."
+- **Source:** https://x.com/JulianGoldieSEO/status/2024033979826139170
+
+### 112. OpenClaw Is Overhyped Hot Garbage
+- **Date:** 2026-02-18
+- **Author:** HigherPrime8 (@HigherPrime8)
+- **Stars at time:** 136,000
+- **Category:** hype
+- **Quote:** "OpenClaw is overhyped hot garbage. Why are people pushing this shit? It's one of the worst AI tools I've used."
+- **Source:** https://x.com/HigherPrime8/status/2024176123823673671
+
+### 113. OpenAI Will Abandon OpenClaw — Theory
+- **Date:** 2026-02-17
+- **Author:** Cody Allred (Developer)
+- **Stars at time:** 131,000
+- **Category:** abandoned
+- **Quote:** "They are going to orphan/abandon OpenClaw to let it die and have Steinberger work on their own closed version. ClosedClaw."
+- **Source:** https://x.com/CodyAlanAllred/status/2023656217814475054
+
+### 114. OpenClaw Will Die — No Truth Behind It
+- **Date:** 2026-02-17
+- **Author:** candyflipline (@candyflipline)
+- **Stars at time:** 131,000
+- **Category:** hype
+- **Quote:** "openclaw will die there's no truth behind it — i'm sorry to those who fell for it"
+- **Source:** https://x.com/candyflipline/status/2023166430422982958
+
+### 115. OpenClaw Didn't Invent Anything New
+- **Date:** 2026-02-17
+- **Author:** juststeveng (Developer)
+- **Stars at time:** 131,000
+- **Category:** hype
+- **Quote:** "Peter Steinberger is talented, but OpenClaw is overhyped; it didn't invent anything new."
+- **Source:** https://x.com/juststeveng/status/2023664130918687145
+
+### 116. Tried OpenClaw, Uninstalled It — Everyone Should Be Ashamed
+- **Date:** 2026-02-13
+- **Author:** dante_eats (@dante_eats)
+- **Stars at time:** 112,000
+- **Category:** technical
+- **Quote:** "tried openclaw, uninstalled openclaw. everyone involved should be ashamed of themselves"
+- **Source:** https://x.com/dante_eats/status/2022169069630456279
+
+### 117. What CISOs Need to Know About OpenClaw (Official)
+- **Date:** 2026-02-12
+- **Author:** CSOonline (CSO Online)
+- **Stars at time:** 108,000
+- **Category:** security
+- **Quote:** "What CISOs need to know about the OpenClaw security nightmare"
+- **Source:** https://x.com/CSOonline/status/2021852562362696097
+
+### 118. The Lethal Trifecta: Why OpenClaw Is Dangerous
+- **Date:** 2026-02-10
+- **Author:** Sentra (Cybersecurity firm)
+- **Stars at time:** 100,000
+- **Category:** security
+- **Quote:** "What makes #OpenClaw dangerous: Direct access to private data, Exposure to untrusted content, External communication, Persistent memory — Palo Alto calls it the lethal trifecta."
+- **Source:** https://x.com/sentra_security/status/2021203049646260247
+
+### 119. OpenClaw: Nightmare Fuel for Security Pros
+- **Date:** 2026-02-02
+- **Author:** ZDNET (Tech Media)
+- **Stars at time:** 65,000
+- **Category:** security
+- **Quote:** "From Clawdbot to OpenClaw: This viral AI agent is evolving fast - and it's nightmare fuel for security pros"
+- **Source:** https://x.com/ZDNET/status/2018444455628451907
+
+### 120. Time to Abandon OpenClaw?
+- **Date:** 2026-02-16
+- **Author:** DolapoOmoleme (@dooolapo)
+- **Stars at time:** 126,000
+- **Category:** abandoned
+- **Quote:** "Time to abandon OpenClaw?"
+- **Source:** https://x.com/dooolapo/status/2023252281458635054
+
+### 121. Yeah, OpenClaw Is Doomed
+- **Date:** 2026-02-18
+- **Author:** Remia (@remiaxyz)
+- **Stars at time:** 136,000
+- **Category:** abandoned
+- **Quote:** "yeah openclaw is doomed."
+- **Source:** https://x.com/remiaxyz/status/2024263955430961441
