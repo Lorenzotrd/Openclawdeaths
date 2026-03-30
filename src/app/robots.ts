@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.openclawdeaths.xyz/sitemap.xml",
+    sitemap: "https://openclawdeaths.xyz/sitemap.xml",
   };
 }

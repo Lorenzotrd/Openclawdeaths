@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     images: ["/og-image.png"],
   },
   alternates: { canonical: "/" },
-  metadataBase: new URL("https://www.openclawdeaths.xyz"),
+  metadataBase: new URL("https://openclawdeaths.xyz"),
   icons: {
     icon: "/openclaw-logo.svg",
     apple: "/favicon.png",
