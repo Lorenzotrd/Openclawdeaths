@@ -3,11 +3,25 @@ import StarsChart from "@/components/StarsChart";
 import Newsletter from "@/components/Newsletter";
 import obituaries from "@/data/obituaries.json";
 
+async function getLiveStars(): Promise<number> {
+  try {
+    const res = await fetch("https://api.github.com/repos/openclaw/openclaw", {
+      headers: { "User-Agent": "OpenClaw-Death-Tracker", Accept: "application/vnd.github.v3+json" },
+      next: { revalidate: 3600 },
+    });
+    const data = await res.json();
+    return data.stargazers_count || 340000;
+  } catch {
+    return 340000;
+  }
+}
+
 function formatStars(stars: number): string {
   return `${(stars / 1000).toFixed(0)}K`;
 }
 
-export default function Home() {
+export default async function Home() {
+  const liveStars = await getLiveStars();
   const count = obituaries.length;
   const categories = obituaries.reduce((acc, o) => {
     acc[o.category] = (acc[o.category] || 0) + 1;
@@ -52,7 +66,7 @@ export default function Home() {
         <Header />
         <div className="max-w-[1100px] mx-auto px-4 md:px-6 pb-16">
           <h1 className="sr-only">OpenClaw Is Dead — Obituary Tracker</h1>
-          <StarsChart obituaries={obituaries} />
+          <StarsChart obituaries={obituaries} liveStars={liveStars} />
 
           {/* Static data table for AI crawlers */}
           <div className="card p-5 md:p-8 mt-6">

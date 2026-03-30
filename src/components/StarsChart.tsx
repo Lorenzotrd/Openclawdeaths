@@ -42,13 +42,15 @@ const timeFilters = [
 
 export default function StarsChart({
   obituaries,
+  liveStars,
 }: {
   obituaries: Obituary[];
+  liveStars: number;
 }) {
   const [activeFilter, setActiveFilter] = useState("All");
   const [scale, setScale] = useState<"linear" | "logarithmic">("linear");
 
-  const currentStars = 335000;
+  const currentStars = liveStars;
   const now = new Date();
 
   const filtered = useMemo(() => {
@@ -154,7 +156,7 @@ export default function StarsChart({
         grid: { color: "rgba(0,0,0,0.03)", drawBorder: false },
         border: { display: false },
         min: scale === "logarithmic" ? 10000 : 0,
-        max: 360000,
+        max: Math.ceil(liveStars * 1.08 / 10000) * 10000,
       },
     },
     plugins: {
@@ -251,7 +253,7 @@ export default function StarsChart({
         <p className="text-base md:text-lg font-medium text-gray-800">
           If you mass-starred OpenClaw each time, you&apos;d have mass
           contributed to{" "}
-          <span className="font-bold text-alive">335,000+</span> stars today.
+          <span className="font-bold text-alive">{(liveStars / 1000).toFixed(0)}K+</span> stars today.
         </p>
         <p className="text-sm text-gray-400 pt-1">
           Updated daily by Lorenzo&apos;s OpenClaw AI Agent
