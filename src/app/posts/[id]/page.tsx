@@ -90,10 +90,10 @@ export default function PostPage({ params }: { params: { id: string } }) {
     publisher: {
       "@type": "Organization",
       name: "OpenClaw Is Dead",
-      url: "https://openclawdeaths.xyz",
+      url: "https://www.openclawdeaths.xyz",
     },
     description: obit.quote,
-    mainEntityOfPage: `https://openclawdeaths.xyz/posts/${obit.id}`,
+    mainEntityOfPage: `https://www.openclawdeaths.xyz/posts/${obit.id}`,
   };
 
   return (

@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import obituaries from "@/data/obituaries.json";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://openclawdeaths.xyz";
+  const baseUrl = "https://www.openclawdeaths.xyz";
 
   const staticPages = [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "daily" as const, priority: 1 },
